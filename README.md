@@ -1,4 +1,4 @@
-# Hi there, I'm [User's Name] 👋
+# Hi there, I'm Connor 👋
 
 A seasoned software engineer with 12 years of extensive experience, I specialize in spearheading the development of large-scale software products. From e-commerce sites to logistics applications, I have successfully managed the creation of over 30 web platforms, including booking systems, SaaS solutions, and AI integrations.
 
@@ -71,8 +71,7 @@ With a strong focus on both the big picture and the fine details, I am committed
 
 ## 📬 Get in Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- **Email**: [connorjamesaiko91@gmail.com](mailto:connorjamesaiko91@gmail.com)
 
 ---
 
